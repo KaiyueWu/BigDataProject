@@ -36,12 +36,12 @@
 ```
 	docker build -t mnistserver:0.1 .
 ```
-###3.Run
-###3.1 Open Safari
-###3.2 print：
+### 3.Run
+#### 3.1 Open Safari
+#### 3.2 print：
 ```
         localhost:8080
 ```
-###4.View database
-###4.1 Open Python
-###4.2 Run file link.py
+### 4.View database
+#### 4.1 Open Python
+#### 4.2 Run file link.py
