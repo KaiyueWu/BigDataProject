@@ -1,0 +1,11 @@
+setup.py
+mnist_server/__init__.py
+mnist_server/net.params
+mnist_server/predictor.py
+mnist_server/web_service.py
+mnist_server.egg-info/PKG-INFO
+mnist_server.egg-info/SOURCES.txt
+mnist_server.egg-info/dependency_links.txt
+mnist_server.egg-info/entry_points.txt
+mnist_server.egg-info/requires.txt
+mnist_server.egg-info/top_level.txt

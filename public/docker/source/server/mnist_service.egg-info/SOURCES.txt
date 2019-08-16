@@ -1,0 +1,7 @@
+setup.py
+mnist_service.egg-info/PKG-INFO
+mnist_service.egg-info/SOURCES.txt
+mnist_service.egg-info/dependency_links.txt
+mnist_service.egg-info/entry_points.txt
+mnist_service.egg-info/requires.txt
+mnist_service.egg-info/top_level.txt

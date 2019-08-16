@@ -1,0 +1,6 @@
+[console_scripts]
+mnist_server = mnist_server.web_service:run
+mnist_server_develop = mnist_server.web_service:run_develop
+mnist_server_init = mnist_server.web_service:init_service
+mnist_server_reset = mnist_server.web_service:reset_service
+

@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: mnist-server
+Version: 0.0.1
+Summary: Mnist Service
+Home-page: UNKNOWN
+Author: Xin Luo
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: service
+Platform: UNKNOWN
+Requires-Python: >=3.6
