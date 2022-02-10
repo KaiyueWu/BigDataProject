@@ -11,7 +11,7 @@
     "core-js": "^2.6.5",
     "element-ui": "^2.4.5",
     "node-uuid": "^1.4.8",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0",
     "vue-color": "^2.7.0",
     "vue": "^2.6.10",
