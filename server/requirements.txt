@@ -1,6 +1,6 @@
 Flask==1.0.2
 Flask_Cors==3.0.4
 mxnet==1.5.0
-setuptools==39.1.0
+setuptools==65.5.1
 numpy==1.17.0
 cassandra_driver==3.18.0
